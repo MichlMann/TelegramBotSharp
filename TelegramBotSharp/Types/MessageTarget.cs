@@ -8,6 +8,6 @@ namespace TelegramBotSharp.Types
 {
     public class MessageTarget
     {
-        public int Id { get; set; }
+        public Int64 Id { get; set; }
     }
 }
